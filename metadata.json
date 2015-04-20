@@ -1,0 +1,30 @@
+{
+  "name": "yum-fedora",
+  "version": "0.3.0",
+  "description": "Installs/Configures yum-fedora",
+  "long_description": "",
+  "maintainer": "Cloudenablers",
+  "maintainer_email": "nagalakshmi.n@cloudenablers.com",
+  "license": "Apache 2.0",
+  "platforms": {
+  },
+  "dependencies": {
+    "yum": "~> 3.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  }
+}
